@@ -85,4 +85,3 @@ virtualenvwrapper==4.8.4
 w3lib==1.19.0
 wcwidth==0.2.5
 Werkzeug==2.0.2
-zope.interface==4.5.0
