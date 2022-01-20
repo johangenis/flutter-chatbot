@@ -5,7 +5,6 @@ asgiref==3.4.1
 asn1crypto==0.24.0
 attrs==21.4.0
 Automat==20.2.0
-autopep8==1.6.0
 backcall==0.2.0
 beautifulsoup4==4.10.0
 bs4==0.0.1
